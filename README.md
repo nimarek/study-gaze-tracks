@@ -1,4 +1,4 @@
-# RSA analysis of the study-forrest-dataset
+# RSA / SVM analysis of the study-forrest-dataset
 
 This repository contains code for the analysis of eye-movement data, control analyses, quality checks, and fMRI representational similarity analysis (RSA) conducted on the StudyForrest dataset. It provides a structured and reproducible implementation tailored to this dataset, enabling integration of eye-tracking measures with fMRI responses during naturalistic movie viewing, using RSA methods [[1]](#1), and data from the StudyForrest project [[2]](#2).
 
